@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-eunry-50: #faf6f6;
+  --color-eunry-100: #f5eceb;
+  --color-eunry-200: #eedcda;
+  --color-eunry-300: #e1c4c0;
+  --color-eunry-400: #cea39d;
+  --color-eunry-500: #b9827a;
+  --color-eunry-600: #a26860;
+  --color-eunry-700: #87554e;
+  --color-eunry-800: #714943;
+  --color-eunry-900: #60403c;
+  --color-eunry-950: #32201d;
+}
